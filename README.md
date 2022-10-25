@@ -6,7 +6,16 @@ Derives sentiment from the text data by using text mining and NLP methods.
  Objective: Perform Sentiment Analysis on Twitter data by using NLP techniques, NLTK and Scikit-Learn library.
 ```
 
+### Roadmap
+<img src='https://raw.github.com/thesumitshrestha/Twitter-Data-Sentiment-Analysis/main/images/roadmap.png' alt='RoadMap'/>
+
+
 ### WordCloud
+Generating WorCloud of Positive(left) and Negative(right) tweets.
+
+
+<img width='40%' align='left' src='https://raw.github.com/thesumitshrestha/Twitter-Data-Sentiment-Analysis/main/images/word-cloud-positive.png' alt='Word Cloud Positive' title='test'/>
+<img width='40%' src='https://raw.github.com/thesumitshrestha/Twitter-Data-Sentiment-Analysis/main/images/word-cloud-negative.png' alt='Word Cloud Negative'/>
 
 ## Text Normalization
 ### Text Cleaning
