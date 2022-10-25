@@ -2,4 +2,4 @@
 
 Perform Sentiment Analysis on Twitter data by using NLP techniques, NLTK and Scikit-Learn library.
 
-<img src='./images/bags-of-words.png' alt='Bag of Words'/>
+![Semantic description of image](/images/bags-of-words.png "Bag of Words")
