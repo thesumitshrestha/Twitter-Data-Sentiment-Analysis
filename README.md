@@ -2,4 +2,4 @@
 
 Perform Sentiment Analysis on Twitter data by using NLP techniques, NLTK and Scikit-Learn library.
 
-![ScreenShot](/images/bags-of-words.png)
+![Bag of Words](https://raw.github.com/thesumitshrestha/Twitter-Data-Sentiment-Analysis/main/images/bag-of-words.png)
