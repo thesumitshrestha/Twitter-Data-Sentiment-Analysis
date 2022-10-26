@@ -43,7 +43,7 @@ Used three different approaches - Positive/Negative Frequencies, Bag of Words an
 Used 80% dataset and trained them using scikit-learn library
 
 ### Logistic Regression
-Used logistic regression for model fitting in the training dataset (t= βo+β1x1+β2x2+ ......+βnxn) in P
+Used logistic regression for model fitting in the training dataset (t= βo+β1x1+β2x2+ ......+βnxn).
 
 ## Performance Metrics
 ### Accuracy Measure
